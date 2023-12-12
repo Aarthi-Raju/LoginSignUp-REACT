@@ -6,7 +6,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   height: 99vh;
-  background-image:linear-gradient(blue, rgb(4, 4, 105)) ;
+  /* background-image:linear-gradient(blue, rgb(4, 4, 105)) ; */
+  background-color: black;
   display: flex;
   justify-content: center;
   align-items: center;
