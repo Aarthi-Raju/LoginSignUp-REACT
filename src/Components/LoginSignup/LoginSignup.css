@@ -20,8 +20,8 @@ img{
     font-size: 40px;
 }
 .underline{
-    /* background-color: rgb(2, 2, 144); */
-    background-color: green;
+    background-color: rgb(2, 2, 144);
+    /* background-color: green; */
     width: 60px;
     height: 4px;
     border-radius: 50px;
